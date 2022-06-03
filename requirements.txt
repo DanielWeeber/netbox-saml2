@@ -1,2 +1,0 @@
-netbox-plugin-auth-saml2
-django3-auth-saml2
