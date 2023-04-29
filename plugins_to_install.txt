@@ -1,0 +1,4 @@
+netbox-secrets
+django3-auth-saml2
+netbox-plugin-auth-saml2>=2.3
+pysaml2>=7.0
